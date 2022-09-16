@@ -1,0 +1,14 @@
+title: Deconstructing Monocular Depth Reconstruction
+description: 3DV 2022 Tutorial
+
+theme: jekyll-theme-cayman
+
+markdown: kramdown
+
+# Remove `View on GitHub` & Download buttons
+show_downloads: false
+#github:
+#  is_project_page: false
+
+plugins:
+  - jemoji
