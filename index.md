@@ -22,20 +22,10 @@ This will cover important topics such as training different baselines in a fair 
 
 ## :open_book: **Slides** {#slides}
 
-> Each talk contains additional videos and explanations that complement the slides.
-> 
-> Please check out the [recordings](#videos) for the full experience!
-
 - [**Introduction to MDE**](./assets/slides/Introduction_MDE.pdf) -- Jaime Spencer 
 - [**Benchmarking MDE: The Design Decisions that Matter**](./assets/slides/Benchmarking_MDE.pdf) -- Jaime Spencer 
 - [**Introduction to BEV Mapping**](./assets/slides/Introduction_BEV.pdf) -- Avishkar Saha 
-- [**Addressing the shortcomings of BEV Mapping**](./assets/slides/Shortcomings_BEV.pdf) -- Avishkar Saha 
-
----
-
-## :camera: **Videos** {#videos}
-
-> Videos will be released soon!
+- [**Addressing the shortcomings of BEV Mapping**](./assets/slides/Shortcomings_BEV.pdf) -- Avishkar Saha
 
 ---
 

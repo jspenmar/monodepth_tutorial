@@ -32,5 +32,6 @@ a {
   height:190px;
   object-fit:cover;
   border-radius:50%;
-  border: 4px solid $section-headings-color;
+  filter: drop-shadow(0 0 0.75rem #000000);
+  //border: 4px solid $section-headings-color;
 }
